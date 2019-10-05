@@ -1,0 +1,9 @@
+C:\Users\Prince\source\repos\CustomerInformation\CustomerInformation\bin\Debug\CustomerInformation.exe.config
+C:\Users\Prince\source\repos\CustomerInformation\CustomerInformation\bin\Debug\CustomerInformation.exe
+C:\Users\Prince\source\repos\CustomerInformation\CustomerInformation\bin\Debug\CustomerInformation.pdb
+C:\Users\Prince\source\repos\CustomerInformation\CustomerInformation\obj\Debug\CustomerInformation.CustomerUI.resources
+C:\Users\Prince\source\repos\CustomerInformation\CustomerInformation\obj\Debug\CustomerInformation.Properties.Resources.resources
+C:\Users\Prince\source\repos\CustomerInformation\CustomerInformation\obj\Debug\CustomerInformation.csproj.GenerateResource.cache
+C:\Users\Prince\source\repos\CustomerInformation\CustomerInformation\obj\Debug\CustomerInformation.csproj.CoreCompileInputs.cache
+C:\Users\Prince\source\repos\CustomerInformation\CustomerInformation\obj\Debug\CustomerInformation.exe
+C:\Users\Prince\source\repos\CustomerInformation\CustomerInformation\obj\Debug\CustomerInformation.pdb
